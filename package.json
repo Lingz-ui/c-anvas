@@ -1,0 +1,20 @@
+{
+  "name": "c-anvas",
+  "version": "1.0.0",
+  "description": "hello world（＞////＜）",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadow-team404/c-anvas.git"
+  },
+  "keywords": [],
+  "author": "shadow-team404",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shadow-team404/c-anvas/issues"
+  },
+  "homepage": "https://github.com/shadow-team404/c-anvas#readme",
+  "dependencies": {
+    "canvas": "^2.6.1"
+  }
+}
